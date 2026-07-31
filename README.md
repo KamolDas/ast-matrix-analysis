@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo-RSV Lab.svg)](https://zenodo.org/communities/rsv-lab/records?q=&l=list&p=1&s=10&sort=newest)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo-RSVLab.svg)](https://zenodo.org/communities/rsv-lab/records?q=&l=list&p=1&s=10&sort=newest)
 
 
 ## 📋 Overview
