@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "Das"
+    given-names: "Kamol"
+    email: "20605032@std.cu.ac.bd"
+    orcid: "https://orcid.org/0009-0004-2253-7527"
+    affiliation: "University of Chittagong"
+title: "RSV Laboratory Advanced AST Analysis Tool"
+version: "rsv_4.6_skd"
+date-released: 2026-01-15
+repository-code: "https://github.com/KamolDas/AST-Tool"
+doi: "10.5281/zenodo.21620688"
+keywords:
+  - "antimicrobial susceptibility testing"
+  - "AST"
+  - "CLSI M23"
+  - "microbiology"
+  - "bioinformatics"
+  - "data analysis"
+  - "visualization"
+  - "clinical microbiology"
+  - "public health"  
+  - "clinical informatics"
+license: "MIT"
